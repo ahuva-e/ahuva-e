@@ -7,7 +7,7 @@ At the moment, I'm focussing on on OOP and data structures.
 
 I am interested in cybersecurity, and hope to work in that field.
 
-These are some of the tools and languages i'm working with:
+Here are some of the tools and languages I'm working with:
 
 ![My Skills](https://skillicons.dev/icons?i=cs,py,visualstudio,vscode&theme=dark)
 
