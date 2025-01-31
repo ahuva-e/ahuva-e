@@ -3,7 +3,7 @@
 
 - I'm currently studying C# and Python
 
-- At the moment, I'm focussing on on OOP and data structures.
+- At the moment, I'm focussing on OOP and data structures.
 
 - I am interested in cybersecurity, and hope to work in that field.
 
